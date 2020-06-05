@@ -1,3 +1,8 @@
+## Preliminaries
+This project was used to grade single-file java assignments in bulk
+For copyright concerns I decided not to include the rubrics for each of the assignments. 
+
+## How to use:
 
 Each of these files are can be used to streamline the grading process. In 
 order to use these scripts it is recommended to have git bash installed. 
