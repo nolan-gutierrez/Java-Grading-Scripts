@@ -16,8 +16,7 @@ All of the Java files should be separated from their folders now. Manually put
 the rest of the Java files into the same directory. I then recommend having 
 notepad ++ as your default editor because it has macro commands which you can 
 make use of. Next move all of your directories to the appropiate folder 
-for the coding assignment you are grading. If you have a default editor 
-chosen for you java files, now execute the following in your bash shell:
+for the coding assignment you are grading. Now execute the following in your bash shell:
 
 ```
 sh openAll.sh
