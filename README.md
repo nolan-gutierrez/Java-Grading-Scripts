@@ -34,4 +34,5 @@ This will bring up a menu of each coding assignment.
 
 Also each coding assignment should be able to be executed using:
 sh CA3.sh Code 
+
 You should not add the java extension when executing java files individually.
